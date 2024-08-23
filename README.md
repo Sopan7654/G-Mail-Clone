@@ -7,24 +7,24 @@ The project also includes custom APIs to handle email functionalities. It replic
 
 # Tech Stack 
 ## Frontend:
-1 React
-2 Vite
-3 Tailwind CSS (if applicable)
+1. React
+2. Vite
+3. Tailwind CSS (if applicable)
 
 ## Backend:
-1 Node.js
-2 Express.js
-3 MongoDB
+1. Node.js
+2. Express.js
+3. MongoDB
 
 ## Getting Started
 ### Prerequisites
-1 Node.js (v14.x or higher)
-2 MongoDB
-3 npm or yarn
+1. Node.js (v14.x or higher)
+2. MongoDB
+3. npm or yarn
 
 ## Installation
 
-1 To get started with the project, clone the repository and install the necessary dependencies.
+#### To get started with the project, clone the repository and install the necessary dependencies.
 
 1. Clone this repository to your local machine.
    ```bash
@@ -49,7 +49,7 @@ The project also includes custom APIs to handle email functionalities. It replic
    cd backend
    npm i
    ```  
-7. 5. Start the Backend server:
+7.  Start the Backend server:
     ```bash
    npm start
    ```  
