@@ -1,4 +1,4 @@
-# Gmail Clone
+# Gmail-Clone
 This project is a Gmail clone built using React and Vite for the frontend, with MongoDB and Node.js for the backend. 
 The project also includes custom APIs to handle email functionalities. It replicates core features of Gmail, such as sending and receiving emails, with a focus on modern web technologies.
 This project is a Gmail clone built using React and Vite for the frontend, with MongoDB and Node.js for the backend. The project also includes custom APIs to handle email functionalities. 
