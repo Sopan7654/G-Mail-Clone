@@ -61,3 +61,6 @@ MONGO_URI=your_mongo_database_url
 PORT=8080
 JWT_SECRET=your_jwt_secret
 ```
+
+# Contributing
+Contributions are welcome! Please fork this repository, make your changes, and submit a pull request.
